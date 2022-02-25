@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="57px" height="44px" viewBox="0 0 57 44" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L57 0L57 44L0 44L0 0Z" id="path_1" />
+    <path d="M0 0L57.109 0L57.109 43.7577L0 43.7577L0 0L0 0Z" id="path_2" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="mask_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+  </defs>
+  <g id="svg">
+    <path d="M0 0L57 0L57 44L0 44L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <g id="Group" transform="translate(0 2.14674E-05)">
+        <path d="M0 0L57.109 0L57.109 43.7577L0 43.7577L0 0L0 0Z" id="Clip-2" fill="none" fill-rule="evenodd" stroke="none" />
+        <g id="Mask-group">
+          <path d="M0 0L57.109 0L57.109 43.7577L0 43.7577L0 0L0 0Z" id="path_1" fill="none" stroke="none" />
+          <g clip-path="url(#mask_2)">
+            <g id="Group" transform="translate(0 1.6908598E-07)">
+              <path d="M34.978 42.975L56.079 24.205C57.451 22.984 57.453 20.841 56.083 19.618L34.982 0.785978C33.002 -0.981022 29.865 0.424978 29.865 3.07798L29.865 5.21498C29.865 6.91098 28.49 8.28598 26.793 8.28598L3.071 8.28598C1.375 8.28598 0 9.66198 0 11.358L0 32.385C0 34.081 1.375 35.456 3.071 35.456L26.793 35.456C28.49 35.456 29.865 36.832 29.865 38.528L29.865 40.68C29.865 43.331 32.997 44.737 34.978 42.975" id="Fill-1" fill="#AAFF7F" fill-rule="evenodd" stroke="none" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
